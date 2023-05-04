@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = ButikSinemaUygulamasi_G023
+build_property.ProjectDir = C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\

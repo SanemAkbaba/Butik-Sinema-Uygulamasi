@@ -1,0 +1,32 @@
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ButikSinemaUygulamasi_G023.exe
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ButikSinemaUygulamasi_G023.deps.json
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ButikSinemaUygulamasi_G023.runtimeconfig.json
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ButikSinemaUygulamasi_G023.runtimeconfig.dev.json
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ButikSinemaUygulamasi_G023.dll
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ref\ButikSinemaUygulamasi_G023.dll
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ButikSinemaUygulamasi_G023.pdb
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.csproj.AssemblyReference.cache
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.AssemblyInfoInputs.cache
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.AssemblyInfo.cs
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.csproj.CoreCompileInputs.cache
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.dll
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ref\ButikSinemaUygulamasi_G023.dll
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.pdb
+C:\Users\Siliconmade Academy\source\repos\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ButikSinemaUygulamasi_G023.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ButikSinemaUygulamasi_G023.deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ButikSinemaUygulamasi_G023.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ButikSinemaUygulamasi_G023.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ButikSinemaUygulamasi_G023.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ref\ButikSinemaUygulamasi_G023.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\bin\Debug\net5.0\ButikSinemaUygulamasi_G023.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ref\ButikSinemaUygulamasi_G023.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\BUTIK SINEMA UYGULAMA\ButikSinemaUygulamasi_G023\ButikSinemaUygulamasi_G023\obj\Debug\net5.0\ButikSinemaUygulamasi_G023.genruntimeconfig.cache

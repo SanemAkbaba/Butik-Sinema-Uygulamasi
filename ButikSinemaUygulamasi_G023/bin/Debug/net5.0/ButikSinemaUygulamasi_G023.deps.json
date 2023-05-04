@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ButikSinemaUygulamasi_G023/1.0.0": {
+        "runtime": {
+          "ButikSinemaUygulamasi_G023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ButikSinemaUygulamasi_G023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
